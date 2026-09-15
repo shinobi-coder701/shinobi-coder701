@@ -106,11 +106,9 @@ optimization, automation, and modern AI integrations.
 
 <td width="42%" align="center">
 
-<img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="440"
-alt="Software engineer coding"
-/>
+<video src="./video.mp4" autoplay controls muted loop playsinline width="360">
+  <a href="./video.mp4">Watch the featured build video</a>
+</video>
 
 <br><br>
 
