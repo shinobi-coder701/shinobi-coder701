@@ -698,24 +698,6 @@ Context-aware applications
 
 <br>
 
-<!-- ========================================================= -->
-
-<!--                  GITHUB ANALYTICS                         -->
-
-<!-- ========================================================= -->
-
-<h1 align="center">GitHub Analytics</h1>
-
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117"
-width="100%"
-alt="GitHub streak"
-/>
-
-</p>
 
 <br>
 
