@@ -70,6 +70,7 @@
       <br><br>
       <img src="https://img.shields.io/badge/STATUS-BUILDING-020617?style=for-the-badge&labelColor=020617&color=22c55e" alt="Building" />
     </td>
+
   </tr>
 </table>
 
@@ -117,6 +118,7 @@
       <h3>Cloud</h3>
       <p><sub>AWS<br>Azure<br>GCP<br>Docker<br>Kubernetes<br>Terraform<br>Ansible</sub></p>
     </td>
+
   </tr>
 </table>
 
@@ -195,6 +197,7 @@
       <h3>Infrastructure</h3>
       <sub>AWS<br>Kubernetes<br>Docker<br>Terraform</sub>
     </td>
+
   </tr>
 </table>
 
@@ -255,6 +258,7 @@
       <h2>RAG Systems</h2>
       <p><sub>Retrieval-Augmented Generation<br>Vector search<br>Knowledge workflows<br>Context-aware apps</sub></p>
     </td>
+
   </tr>
 </table>
 

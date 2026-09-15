@@ -696,7 +696,6 @@ Context-aware applications
 
 <br>
 
-
 <br>
 
 <!-- ========================================================= -->
@@ -706,7 +705,6 @@ Context-aware applications
 <!-- ========================================================= -->
 
 <h1 align="center">Contribution Activity</h1>
-
 
 <!-- ========================================================= -->
 
@@ -840,8 +838,6 @@ Event-driven systems
 </table>
 
 <br>
-
-
 
 <p align="center">
   <sub>
