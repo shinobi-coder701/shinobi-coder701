@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=HINATA%20MORI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=55&descSize=19&color=0:020617,30:111827,65:312e81,100:0f172a"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=SHINOBI%20CODER&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=55&descSize=19&color=0:020617,30:111827,65:312e81,100:0f172a"
     width="100%"
     alt="Shinobi Coder"
   />
