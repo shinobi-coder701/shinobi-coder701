@@ -106,7 +106,9 @@ optimization, automation, and modern AI integrations.
 
 <td width="42%" align="center">
 
-<a href="./video.webm"><strong>▶ Open video.webm</strong></a>
+<video autoplay muted loop playsinline controls width="360">
+  <source src="./video.webm" type="video/webm">
+</video>
 
 <br><br>
 
