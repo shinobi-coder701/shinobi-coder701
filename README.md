@@ -106,9 +106,7 @@ optimization, automation, and modern AI integrations.
 
 <td width="42%" align="center">
 
-<video autoplay muted loop playsinline controls width="360">
-  <source src="https://github.com/user-attachments/assets/1e5245a6-00ce-4d42-b542-3744eed15b44" type="video/webm">
-</video>
+<img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
 
 <br><br>
 
