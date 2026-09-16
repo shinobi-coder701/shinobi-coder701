@@ -106,8 +106,8 @@ optimization, automation, and modern AI integrations.
 
 <td width="42%" align="center">
 
-<video src="./video.mp4" autoplay controls muted loop playsinline width="360">
-  <a href="./video.mp4">Watch the featured build video</a>
+<video src="./video.webm" autoplay controls muted loop playsinline width="360">
+  <a href="./video.webm">Watch the featured build video</a>
 </video>
 
 <br><br>
