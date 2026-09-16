@@ -106,9 +106,7 @@ optimization, automation, and modern AI integrations.
 
 <td width="42%" align="center">
 
-<video src="https://res.cloudinary.com/ghfyrs3j/image/upload/f_auto,q_auto/ninja_aurora" autoplay controls muted loop playsinline width="360">
-  <a href="https://res.cloudinary.com/ghfyrs3j/image/upload/f_auto,q_auto/ninja_aurora">Watch the featured build video</a>
-</video>
+<a href="./video.webm"><strong>▶ Open video.webm</strong></a>
 
 <br><br>
 
