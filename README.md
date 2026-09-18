@@ -8,8 +8,6 @@
   <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
 </p>
 
-<br>
-
 <!-- ========================================================= -->
 
 <!--                    PROFILE INTRO                          -->
@@ -91,54 +89,16 @@ for real-world production environments.
 
 </table>
 
-<br>
-
 <!-- ========================================================= -->
 
 <!--                    LANGUAGE WALL                          -->
 
 <!-- ========================================================= -->
 
-<h2 align="center">Languages</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,go,rust,html,css&perline=9&theme=dark"
-    alt="Programming languages"
-  />
+  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/6f432534-5f4f-486a-8213-b4aeed78e62f" />
 </p>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript">
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-</td>
-
-</tr>
-
-</table>
-
-<br>
 
 <!-- ========================================================= -->
 
@@ -146,123 +106,9 @@ for real-world production environments.
 
 <!-- ========================================================= -->
 
-<h1 align="center">System Architecture</h1>
-
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/CLIENT%20APPLICATION-020617?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="Client"
-  />
+  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
 </p>
-
-<p align="center">
-<img
- src="https://img.shields.io/badge/API%20GATEWAY-020617?style=for-the-badge&logo=nginx&logoColor=009639"
- alt="API gateway"
-/>
-</p>
-
-<p align="center">
-<img
- src="https://img.shields.io/badge/MICROSERVICES-020617?style=for-the-badge&logo=kubernetes&logoColor=326CE5"
- alt="Microservices"
-/>
-</p>
-
-<p align="center">
-<img
- src="https://img.shields.io/badge/DATA%20LAYER-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1"
- alt="Data layer"
-/>
-
-</p>
-
-<br>
-
-<table align="center" width="95%">
-
-<tr>
-
-<td align="center" width="20%">
-
-<img src="https://img.icons8.com/fluency/96/web.png" width="65" alt="Web">
-
-<h3>Experience</h3>
-
-<sub>
-React<br>
-Next.js<br>
-Mobile<br>
-Real-time UI
-</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.icons8.com/fluency/96/api-settings.png" width="65" alt="API">
-
-<h3>API Layer</h3>
-
-<sub>
-REST<br>
-GraphQL<br>
-gRPC<br>
-Authentication
-</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.icons8.com/fluency/96/services.png" width="65" alt="Services">
-
-<h3>Services</h3>
-
-<sub>
-Microservices<br>
-Event-driven<br>
-Workers<br>
-Queues
-</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.icons8.com/fluency/96/database.png" width="65" alt="Database">
-
-<h3>Data</h3>
-
-<sub>
-PostgreSQL<br>
-MongoDB<br>
-Redis<br>
-Caching
-</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.icons8.com/fluency/96/cloud.png" width="65" alt="Cloud">
-
-<h3>Infrastructure</h3>
-
-<sub>
-AWS<br>
-Kubernetes<br>
-Docker<br>
-Terraform
-</sub>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
 
 <!-- ========================================================= -->
 
