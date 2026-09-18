@@ -5,39 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=SHINOBI%20CODER&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=55&descSize=19&color=0:020617,30:111827,65:312e81,100:0f172a"
-    width="100%"
-    alt="Shinobi Coder"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=60A5FA&center=true&vCenter=true&width=900&height=55&lines=FULL-STACK+SOFTWARE+ENGINEER;REACT+%7C+TYPESCRIPT+%7C+PYTHON+%7C+NODE.JS;CLOUD+%7C+MICROSERVICES+%7C+DISTRIBUTED+SYSTEMS;AI+%7C+LLM+%7C+RAG+%7C+AUTOMATION;BUILDING+SOFTWARE+THAT+SCALES"
-    alt="Typing introduction"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/8%2B%20YEARS-SOFTWARE%20ENGINEERING-0f172a?style=for-the-badge&labelColor=020617&color=6366f1"
-    alt="8 plus years"
-  />
-  <img
-    src="https://img.shields.io/badge/FULL--STACK-ENGINEERING-0f172a?style=for-the-badge&labelColor=020617&color=06b6d4"
-    alt="Full stack engineering"
-  />
-  <img
-    src="https://img.shields.io/badge/CLOUD--NATIVE-ENGINEERING-0f172a?style=for-the-badge&labelColor=020617&color=8b5cf6"
-    alt="Cloud native"
-  />
-  <img
-    src="https://img.shields.io/badge/AI--POWERED-SYSTEMS-0f172a?style=for-the-badge&labelColor=020617&color=ec4899"
-    alt="AI systems"
-  />
+  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
 </p>
 
 <br>
@@ -64,12 +32,6 @@ I design and build modern software systems across the
 My focus is on turning complicated product requirements into
 clean, scalable, secure, and maintainable systems that are ready
 for real-world production environments.
-</p>
-
-<p>
-I work comfortably across application architecture, API design,
-distributed services, cloud infrastructure, performance
-optimization, automation, and modern AI integrations.
 </p>
 
 <br>
@@ -108,35 +70,11 @@ optimization, automation, and modern AI integrations.
 
 <img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
 
-<br><br>
-
-<img
-src="https://img.shields.io/badge/STATUS-BUILDING-020617?style=for-the-badge&labelColor=020617&color=22c55e"
-alt="Building"
-/>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<!-- ========================================================= -->
-
-<!--                     VISUAL DIVIDER                        -->
-
-<!-- ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
-    width="100%"
-    alt="Rainbow divider"
-  />
-</p>
-
-<br>
 
 <!-- ========================================================= -->
 
@@ -144,110 +82,8 @@ alt="Building"
 
 <!-- ========================================================= -->
 
-<h1 align="center">Technology Universe</h1>
-
 <p align="center">
-  <sub>
-    A modern engineering stack spanning product development,
-    distributed systems, cloud infrastructure, and intelligent applications.
-  </sub>
-</p>
-
-<br>
-
-<table align="center" width="96%">
-
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-<img
-src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,angular&perline=3&theme=dark"
-alt="Frontend technologies"
-/>
-
-<h3>Frontend</h3>
-
-<p>
-<sub>
-React<br>
-Next.js<br>
-TypeScript<br>
-Vue.js<br>
-Angular<br>
-Tailwind CSS<br>
-Sass
-</sub>
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,python,django,flask,spring&perline=3&theme=dark"
-alt="Backend technologies"
-/>
-
-<h3>Backend</h3>
-
-<p>
-<sub>
-Node.js<br>
-Python<br>
-Django<br>
-Flask<br>
-Spring Boot<br>
-REST APIs<br>
-Microservices
-</sub>
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<img
-src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&perline=3&theme=dark"
-alt="Database technologies"
-/>
-
-<h3>Data</h3>
-
-<p>
-<sub>
-PostgreSQL<br>
-MongoDB<br>
-Redis<br>
-MySQL<br>
-Data Modeling<br>
-Caching<br>
-Performance
-</sub>
-</p>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<img
-src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&perline=3&theme=dark"
-alt="Cloud technologies"
-/>
-
-<h3>Cloud</h3>
-
-<p>
-<sub>
-AWS<br>
-Azure<br>
-Google Cloud<br>
-Docker<br>
-Kubernetes<br>
-Terraform<br>
-Ansible
-</sub>
-</p>
+  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/45e88119-2d01-4e84-895c-580287d27a03" /></p>
 
 </td>
 
