@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1664" height="936" alt="Image" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
+  <img width="1664" height="936" alt="Image" src="AJ.html.gif" />
 </p>
 
 <!-- ========================================================= -->
@@ -66,7 +66,7 @@ for real-world production environments.
 
 <td width="42%" align="center">
 
-<img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
+<img width="960" height="960" alt="Image" src="AJ.html.gif" />
 
 
 </td>
